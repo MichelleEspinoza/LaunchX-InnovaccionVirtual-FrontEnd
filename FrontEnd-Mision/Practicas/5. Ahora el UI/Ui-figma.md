@@ -1,7 +1,7 @@
 
 # Link a analisis de publico objetivo 🛠️
 
-* [Click aquí](https://miro.com/app/board/uXjVOJ27q4s=/?invite_link_id=841982960549) - App usada(miro)
+* [Click aquí](https://www.figma.com/file/7tz5kqi0ktlk1u2YTdjwAy/UI?node-id=0%3A1) - App usada(Figma)
 
 ---
 ⌨️ por [MichelleEspinoza](https://github.com/MichelleEspinoza)
